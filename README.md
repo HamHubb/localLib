@@ -36,6 +36,7 @@ To watch how the code you write affects the application website, you can run the
 npm start
 
 ##Instructions
+
 You are tasked with building a number of different algorithms that will help complete the an administrative site for a local library. All of the functions will work on three common datasets. The datasets are related and at times you will need to work with multiple datasets to solve the problem at hand.
 
 While working on these problems, you have both the tests and the live site to act as a guide. You can solve the tasks in any order and are encouraged to organize your code how you like.
